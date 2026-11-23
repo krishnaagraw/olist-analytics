@@ -48,7 +48,7 @@ st.caption(f"Brazilian e-commerce, {meta['first_order']} to {meta['last_order']}
            "Data: Olist public dataset (Kaggle). Built with SQL (DuckDB), Python and Streamlit.")
 
 tab_find, tab_over, tab_cust, tab_ops, tab_about = st.tabs(
-    ["Key findings", "Overview", "Customers", "Delivery & Sellers"])
+    ["Key findings", "Overview", "Customers", "Delivery & Sellers,About"])
 
 # ---------------- Key findings ----------------
 with tab_find:
