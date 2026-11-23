@@ -1,0 +1,7 @@
+.venv/
+data/raw/
+data/demo_raw/
+exports/
+__pycache__/
+.ipynb_checkpoints/
+*.duckdb
